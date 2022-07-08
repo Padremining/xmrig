@@ -26,7 +26,7 @@
         "scratchpad_prefetch_mode": 1
     },
     "cpu": {
-        "enabled": true,
+        "enabled": false,
         "huge-pages": true,
         "huge-pages-jit": false,
         "hw-aes": null,
@@ -205,7 +205,7 @@
             "algo": null,
             "coin": null,
             "url": "pool address",
-            "user": "coin:wallet address.worker name#ref numer",
+            "user": "coin:wallet address.worker name#ref number",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
