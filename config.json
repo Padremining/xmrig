@@ -287,7 +287,7 @@
             "algo": null,
             "coin": null,
             "url": "pool address",
-            "user": "coin:wallet address.worker name#ref numer",
+            "user": "coin:wallet address.worker name#ref number",
             "pass": "x",
             "rig-id": null,
             "nicehash": true,
