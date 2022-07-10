@@ -1,7 +1,7 @@
 # xmrig
 Thank you for downloading Xmrig for cpu mining. my group is padre mining. we have done all the testing for you and compiled all the link to make it easy to start mining with your cpu. Below are the steps to get started. this process will work for all coins.
 
-Step 1: double clink the avast_one_essential_setup_online.exe, and follow the insutructions to install avast. A) Avast is the only anti-virus programe that i trust and have used for years. B) after you setup Avast its important to understand to start minging you have to make alot of exceptions to make it work correctly. I have made sure this process will work no issue.
+Step 1: double clink the avast_one_essential_setup_online.exe, and follow the insutructions to install avast. A) Avast is the only anti-virus program that i trust and have used for years. B) after you setup Avast its important to understand to start minging you have to make alot of exceptions to make it work correctly. I have made sure this process will work no issue.
 
 Step 2: Click on the config.json file to start setting up the Xmrig miner. ( Below i will have link to my youtube channel padre mining to have step by step video on how to set up the miner ) https://www.youtube.com/channel/UCDwb-lWOR2I4yjGU_-8oQNw
 
