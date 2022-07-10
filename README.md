@@ -19,8 +19,9 @@ Step 4: save the config.json file, next part is important, make sure you right c
 Step 5: copy and paste you receive address to the pool wesite to sign up for mining on that pool.
 
 Donate: 
-    Dogecoin: DDLxp6oZi6akv1aabKUiP54WcfDhHUwv5C
     
-    Shiba inu coin: 0x9Bb281ff8d74Fbca17c30a098e24225BaAfe19dF
+  Dogecoin: DDLxp6oZi6akv1aabKUiP54WcfDhHUwv5C
     
-    Bitcoin: bc1qntzqgus324krykk9yvjqtmzprnstnglzsv30y4
+  Shiba inu coin: 0x9Bb281ff8d74Fbca17c30a098e24225BaAfe19dF
+    
+  Bitcoin: bc1qntzqgus324krykk9yvjqtmzprnstnglzsv30y4
