@@ -1,5 +1,5 @@
 # xmrig
-Thank you for downloading Xmrig for cpu mining. my group is padre mining. we have done all the testing for you and compiled all the link to make it
+Thank you for downloading Xmrig for cpu mining. my group is padre mining. we have done all the testing for you and compiled all the links to make it
 easy to start mining with your cpu. Below are the steps to get started. this process will work for all coins.
 
 Step 1: double clink the avast_one_essential_setup_online.exe, and follow the insutructions to install avast.
@@ -16,7 +16,7 @@ Step 3:  make sure you change the algo, pool address, your wallet address. befor
 Step 4: save the config.json file, next part is important, make sure you right click on Xrig.exe, go to properties  
        and make sure to run as admin, by doing that you get 1/2 the hasrate then you would without doing it
        
-Step 5: copy and paste you receive address to the pool wesite to sign up for mining on that pool.
+Step 5: copy and paste you receive address to the pool website to sign up for mining on that pool.
 
 Donate: 
     
